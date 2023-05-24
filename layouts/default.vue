@@ -1,7 +1,8 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
-	<main>
-		<slot />
-	</main>
+  <main>
+    <slot />
+  </main>
 </template>
 
 <script setup lang="ts">
